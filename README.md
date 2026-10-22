@@ -13,6 +13,9 @@ Die Anwendung bietet unterschiedliche Zugriffsrechte für Administratoren, Lehre
 
 *Hinweis: Zum Wechseln der Ansichten zwischen Administrator, Lehrer und Schüler gibt es auf der rechten Seite vom Bildschirm ein Symbol mit einem Männchen und runden Pfeilen zum Wechseln.*
 
+<img width="48" height="48" alt="Mendix-Rollenwechsel" src="https://github.com/user-attachments/assets/4c44b0a8-e852-43eb-ab03-750dbdb182a4" />
+
+
 ## Funktionen
 
 - **Kursverwaltung:** Erstellung und Verwaltung von Kursen einschließlich Dauer und Preis.
