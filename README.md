@@ -18,12 +18,15 @@ Die Anwendung bietet unterschiedliche Zugriffsrechte für Administratoren, Lehre
 
 ## Funktionen
 
-- **Kursverwaltung:** Erstellung und Verwaltung von Kursen einschließlich Dauer und Preis.
-- **Terminverwaltung:** Planung von Schulungsterminen durch die Auswahl eines Kurses, eines Start- und Enddatums, eines Lehrers und eines Standorts.
+- **Kursverwaltung:** Erstellung und Verwaltung von Schulungskursen einschließlich Dauer und Preis.
+- **Standortverwaltung:** Verwaltung der verfügbaren Schulungsstandorte.
+- **Lehrerverwaltung:** Verwaltung der Lehrer und ihrer Zuordnung zu Schulungsterminen.
+- **Terminverwaltung:** Planung von Schulungsterminen/Ereignissen durch die Zuordnung eines Kurses, eines Start- und Enddatums, eines Lehrers und eines Standorts.
+- **Teilnehmerverwaltung:** Verwaltung der Teilnehmer und ihrer Stammdaten.
 - **Anmeldungsverwaltung:** Registrierung von Teilnehmern für Schulungstermine sowie Verwaltung bestehender Anmeldungen.
 - **Teilnehmerübersicht:** Anzeige und Nachverfolgung der Anmeldungen zu einzelnen Schulungsterminen.
 - **Rollenbasierte Zugriffsrechte:** Unterschiedliche Berechtigungen für Administratoren, Lehrer und Teilnehmer.
-- **Verwaltung von Demodaten:** Erstellung und Zurücksetzen von Beispieldaten, um die Funktionen der Anwendung zu demonstrieren.
+- **Verwaltung von Demodaten:** Erstellung und Zurücksetzen von Beispieldaten zur Demonstration der Anwendungsfunktionen.
 
 ## Benutzerrollen
 
