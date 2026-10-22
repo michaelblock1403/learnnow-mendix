@@ -32,8 +32,8 @@ Die Anwendung bietet unterschiedliche Zugriffsrechte für Administratoren, Lehre
 
 | Rolle | Berechtigungen |
 |---|---|
-| Administrator | Verwaltung von Kursen, Schulungsterminen, Lehrern, Standorten, Teilnehmern und Anmeldungen. |
-| Lehrer | Einsicht in Kurse, Schulungstermine, Lehrer, Standorte, Teilnehmer und Anmeldungen. |
+| Administrator | Verwaltung von Kursen, Standorten, Lehrern, Schulungsterminen, Teilnehmern und Anmeldungen. |
+| Lehrer | Einsicht in Kurse, Standorte, Lehrer, Schulungstermine, Teilnehmer und Anmeldungen. |
 | Teilnehmer | Einsicht in verfügbare Schulungstermine. |
 
 ## Technologien und Kenntnisse
