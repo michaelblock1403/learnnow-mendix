@@ -1,10 +1,3 @@
-# learnnow-mendix
-Low-Code-Anwendung zur Verwaltung von Kursen, Lehrern, Schülern, Veranstaltungsorten, Trainingsterminen und Anmeldungen, entwickelt mit Mendix.
-
-
-
-Zum Wechseln der Ansichten zwischen Administrator, Lehrer und Schüler gibt es auf der rechten Seite vom Bildschirm ein Symbol mit einem Männchen und runden Pfeilen zum Wechseln.
-
 # LearnNow Training Management App
 
 Eine mit **Mendix Studio Pro** entwickelte Low-Code-Webanwendung zur Verwaltung von Schulungskursen, Schulungsterminen, Lehrern, Standorten, Schülern und Anmeldungen.
