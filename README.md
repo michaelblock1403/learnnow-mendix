@@ -6,8 +6,8 @@ Eine mit **Mendix Studio Pro** entwickelte Low-Code-Webanwendung zur Verwaltung 
 
 **[Anwendung öffnen](https://learnnowtrainingmanagement-utd-sandbox.mxapps.io/login.html?profile=Responsive)**
 
-Benutzername: demo_administrator
-Passwort: SDgj08spYGMj
+- Benutzername: demo_administrator
+- Passwort: SDgj08spYGMj
 
 Die Anwendung bietet unterschiedliche Zugriffsrechte für Administratoren, Lehrer und Teilnehmer.
 
