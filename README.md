@@ -38,12 +38,15 @@ Die Anwendung bietet unterschiedliche Zugriffsrechte für Administratoren, Lehre
 
 ## Technologien und Kenntnisse
 
-- Mendix Studio Pro
-- Low-Code-Anwendungsentwicklung
-- Domänenmodellierung und Datenbeziehungen
-- Microflows und Nanoflows
-- Rollenbasierte Zugriffskontrolle
-- Implementierung von Geschäftslogik
+- **Entwicklungsplattform:** Mendix Studio Pro
+- **Low-Code-Entwicklung:** Entwicklung datenbasierter Webanwendungen
+- **Datenmodellierung:** Domänenmodellierung, Entitäten und Datenbeziehungen
+- **Microflows und Nanoflows:** Umsetzung von Abläufen und Geschäftsprozessen
+- **Geschäftslogik:** Implementierung von Anwendungslogik und Geschäftsregeln
+- **Zugriffskontrolle:** Rollenbasierte Berechtigungen und Benutzerrollen
+- **Datenverwaltung:** Erstellen, Bearbeiten, Löschen und Anzeigen von Datensätzen
+- **Benutzeroberflächen:** Gestaltung von Seiten, Formularen und Übersichten
+- **Datenvalidierung:** Prüfung von Eingaben und erforderlichen Daten
 
 ## Screenshots
 
