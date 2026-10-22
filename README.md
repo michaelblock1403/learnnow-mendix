@@ -11,7 +11,7 @@ Eine mit **Mendix Studio Pro** entwickelte Low-Code-Webanwendung zur Verwaltung 
 
 Die Anwendung bietet unterschiedliche Zugriffsrechte für Administratoren, Lehrer und Teilnehmer.
 
-*Hinweis: Zum Wechseln der Ansichten zwischen Administrator, Lehrer und Schüler gibt es auf der rechten Seite vom Bildschirm ein Symbol mit einem Männchen und runden Pfeilen zum Wechseln.*
+*Hinweis: Zum Wechseln der Ansichten zwischen Administrator, Lehrer und Schüler gibt es auf der rechten Seite vom Bildschirm ein Symbol mit einem Männchen und runden Pfeilen zum Wechseln. Die aktuellen Demo-Daten werden bei jeder Aktualisierung der Seite oder beim Wechsel zu einem anderen Benutzerprofil gelöscht.*
 
 <img width="48" height="48" alt="Mendix-Rollenwechsel" src="https://github.com/user-attachments/assets/4c44b0a8-e852-43eb-ab03-750dbdb182a4" />
 
